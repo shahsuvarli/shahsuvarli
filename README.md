@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Elvin</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif"/>
+<!-- <h3 align="center">A passionate frontend developer from Azerbaijan</h3> -->
+<img width="400" align="right" src="https://cdn.dribbble.com/users/2330950/screenshots/16759824/media/db377fdecba203a67c147393ea755777.jpg"/>
 
-- 📫 How to reach me **shahsuvarli.elvin@gmail.com**
+:envelope: Reach me at **shahsuvarli.elvin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
