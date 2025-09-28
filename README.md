@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 📊 I’m currently working as a **Data Associate Governance Analyst @ Morgan Stanley**  
+- 📊 I’m currently working as a **Analytics Engineer**  
 - 🔍 I’m exploring **BigQuery, Looker, and Cloud Data Engineering**  
 - 🤝 I’m looking to collaborate on **data analytics & pipeline automation projects**  
 - 🧩 I’m interested in **data quality, lineage, and AI insights**  
